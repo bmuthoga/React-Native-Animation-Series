@@ -4,7 +4,7 @@ A Inshorts clone that implements the vertical viewpager animation.
 
 Below is a preview of the app:
 
-<img alt="app-preview" src="https://i.ibb.co/CPgDjJt/Inshorts-Clone.gif" height="480" width="215" />
+<img alt="app-preview" src="https://i.ibb.co/t3VzBcp/Inshorts-Clone.gif" height="480" width="215" />
 
 ## Running the Project
 
